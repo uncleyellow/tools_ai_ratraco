@@ -1,0 +1,25 @@
+sounddevice
+numpy
+scipy
+python-docx
+moviepy
+pydub
+matplotlib
+networkx
+langdetect
+transformers
+librosa
+python-pptx
+pywin32 # For Windows-specific PowerPoint control
+opencv-python
+pytesseract # Requires external Tesseract OCR installation
+Pillow
+pyttsx3
+gTTS
+pygame
+seaborn
+ultralytics
+torch # PyTorch for Ultralytics (YOLO) - adjust based on your hardware (CPU/GPU) if needed
+
+# To install these libraries, navigate to your project directory in the terminal
+# and run: pip install -r requirements.txt
